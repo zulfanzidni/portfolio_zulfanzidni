@@ -7,7 +7,7 @@ You can contact me through:
 Email: [zulfanzidni@gmail.com](mailto:zulfanzidni@gmail.com)  
 LinkedIn: [zulfanzidni](www.linkedin.com/in/zulfanzidni)
 
-## [Diamond Price Prediction](link)
+## [Diamond Price Prediction](https://github.com/zulfanzidni/Portfolio_Repository/tree/d9861574aa4b6c254895508b3faf64cfa068b4b0/Diamond%20Price%20Prediction)
 
 ### Project Description
 This project aims to predict the price of diamonds based on their physical characteristics (such as carat, cut, color, clarity, depth, table, and dimensions x, y, z). By utilising various machine learning regression models, this project demonstrates the process of data preprocessing, model training, and evaluation to find the most accurate model for price prediction.
