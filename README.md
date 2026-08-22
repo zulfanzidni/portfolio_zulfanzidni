@@ -1,7 +1,7 @@
 # Hi, I'm Zulfan Zidni Ilhama
 Data Scientist | Machine Learnnig | Analytics
 
-Introduction
+Information Systems graduate from Institut Teknologi Sepuluh Nopember with a strong foundation in machine learning, deep learning, and data analysis. Proven ability to translate raw data into actionable business insights, demonstrated through hands-on experience managing end-to-end store operations, driving a 25% increase in sales revenue and reducing deadstock by 15% through data-driven decision-making. Combines technical proficiency in Python, TensorFlow, and SQL with real-world business skills in ERP systems (SAP S/4HANA, Odoo).
 
 You can contact me through:  
 Email: [zulfanzidni@gmail.com](mailto:zulfanzidni@gmail.com)  
